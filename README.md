@@ -4,6 +4,9 @@
 This is basic react app for Carousel.
 
 
+## Demo
+
+https://6465da22fa290e59232aaf72--effervescent-lebkuchen-79a37e.netlify.app/
 
 
 ## Run Locally
